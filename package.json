@@ -1,5 +1,5 @@
 {
-  "name": "pptr-nordvpn",
+  "name": "@sobujch/pptr-nordvpn",
   "version": "1.0.4",
   "description": "Connect Nord VPN with chrome extension in puppeteer instance.",
   "main": "index.js",
