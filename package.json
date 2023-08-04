@@ -1,0 +1,25 @@
+{
+  "name": "@sobujch/pptr-nordvpn",
+  "version": "1.0.1",
+  "description": "Connect Nord VPN with chrome extension in puppeteer instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SobujCh/pptr-nordvpn.git"
+  },
+  "keywords": [
+    "puppeteer", "nord", "nord-vpn", "vpn", "chrome-extension"
+  ],
+  "author": "Sobuj Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SobujCh/pptr-nordvpn/issues"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@sobujch"
+  },
+  "homepage": "https://github.com/SobujCh/pptr-nordvpn#readme"
+}
